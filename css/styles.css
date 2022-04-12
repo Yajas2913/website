@@ -1,0 +1,130 @@
+body{
+  margin:0;
+  text-align:center;
+ font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  font-size: 562.5%;
+  margin-top: 100px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+
+}
+
+.style{
+  color:#66BFBF;
+
+
+}
+
+h2{
+  font-family: 'Sacramento', cursive;
+
+}
+
+h3{
+  font-family: 'Sacramento', cursive;
+}
+
+
+
+.top-container{
+  background-color: #E4F9F5;
+  position:static;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.middle-container{
+
+background-color: #EEEEEE;
+padding-top: 100px;
+padding-bottom: 100px;
+
+}
+
+.bottom-container{
+  margin-top: 0;
+ background-color: #FAFDD6;
+ padding-top: 100px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300;
+}
+
+.top-cloud{
+  position: absolute;
+  right:300px;
+
+  top:10px;
+}
+
+.images{
+  border-radius: 10rem;
+  max-width: 20%;
+  max-height: 20%;
+
+}
+
+
+.style1{
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.image{
+  margin-left:20px;
+  max-width: 20px;
+  max-height: 20px;
+
+}
+
+.skill-image{
+  max-width: 25%;
+  border-radius:10rem;
+  float: left;
+  margin-right:30px
+}
+
+.skill-row{
+  width: 50%
+margin 100px auto 100px;
+text-align: left;
+line-height: 2;
+}
+
+.sound-img{
+  max-width: 25%;
+  border-radius:10rem;
+  float: right;
+  margin-right:30px
+}
+
+
+.border{
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  border-spacing: 10px;
+  width: 5%;
+}
+
+.size{
+  font-size: 300%;
+}
